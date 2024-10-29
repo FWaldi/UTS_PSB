@@ -18,7 +18,7 @@ Repositori ini berisi kode-kode proyek mini untuk mata kuliah *Pemrograman Siste
 
 3. **Landing Page**
    - Setelah login, pengguna diarahkan ke halaman utama yang menampilkan beberapa opsi: Bermain, Scoreboard, dan Keluar.
-   -  ![Gambar 4](HasilProyek/Gambar4.png)
+   -  ![Gambar 4](HasilProyek/Gambar5.png)
 
 4. **Gameplay**
    - Pemain akan melihat tiga kotak warna dan satu instruksi warna. Tugas pemain adalah menekan kotak warna yang sesuai dengan instruksi.
